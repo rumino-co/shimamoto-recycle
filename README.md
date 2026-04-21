@@ -4,7 +4,7 @@
 
 ## 公開URL
 
-https://minoru521019-blip.github.io/shimamoto-recycle/
+https://rumino-co.github.io/shimamoto-recycle/
 
 ## 構成
 
@@ -55,7 +55,7 @@ git init
 git add .
 git commit -m "Initial commit: 嶋本建設リサイクルセンター HP"
 git branch -M main
-git remote add origin https://github.com/minoru521019-blip/shimamoto-recycle.git
+git remote add origin https://github.com/rumino-co/shimamoto-recycle.git
 git push -u origin main
 ```
 
@@ -64,11 +64,11 @@ git push -u origin main
 1. リポジトリの `Settings` → `Pages`
 2. `Build and deployment` の `Source` を `Deploy from a branch` に設定
 3. `Branch` を `main` / `/ (root)` に設定して `Save`
-4. 数分後、`https://minoru521019-blip.github.io/shimamoto-recycle/` で公開されます
+4. 数分後、`https://rumino-co.github.io/shimamoto-recycle/` で公開されます
 
 ## 関連サイト
 
-- 親会社: 嶋本建設株式会社 https://minoru521019-blip.github.io/
+- 親会社: 嶋本建設株式会社 https://rumino-co.github.io/
 
 ## 会社情報
 
