@@ -20,9 +20,15 @@
   </url>
   <url>
     <loc>https://rumino-co.github.io/shimamoto-recycle/news.html</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rumino-co.github.io/shimamoto-recycle/news-gw-2026.html</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://rumino-co.github.io/shimamoto-recycle/contact.html</loc>
