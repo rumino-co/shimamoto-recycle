@@ -180,7 +180,7 @@ img {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('../images/risaikuru2.png') center/cover no-repeat;
+  background: url('../images/risaikuru2.webp') center/cover no-repeat;
   z-index: 1;
 }
 
@@ -237,7 +237,7 @@ img {
 .page-hero-bg {
   position: absolute;
   inset: 0;
-  background: url('../images/risaikuru1.png') center/cover no-repeat;
+  background: url('../images/risaikuru1.webp') center/cover no-repeat;
 }
 
 .page-hero-bg::after {
@@ -1012,6 +1012,14 @@ img {
   .hero {
     height: 480px;
     margin-top: 64px;
+  }
+
+  .hero-bg {
+    background-image: url('../images/risaikuru2-mobile.webp');
+  }
+
+  .page-hero-bg {
+    background-image: url('../images/risaikuru1-mobile.webp');
   }
 
   .hero-content h1 {
